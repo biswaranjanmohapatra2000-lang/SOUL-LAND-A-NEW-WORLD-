@@ -1,0 +1,6 @@
+{
+  "name": "Soul Land: Douluo Awakening",
+  "description": "Step into the Douluo Continent. Awaken your Martial Soul, hunt Spirit Beasts in Star Dou Forest, absorb legendary Soul Rings, forge Spirit Bones, master Tang Sect techniques, and ascend to Godhood.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
